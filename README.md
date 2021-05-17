@@ -73,4 +73,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-*olateekay was here again ooo eejo eejooooo, testing ssh connection ,testing another instance2 again*
+*olateekay was here again ooo eejo eejooooo, testing ssh connection ,testing another instance2 again,*
